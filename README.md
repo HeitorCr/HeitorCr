@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 Me
 
 <img src="Assets/hmm.gif" width="25px" />  
 Backend Developer focused on **Node.js, TypeScript and distributed systems**.  
