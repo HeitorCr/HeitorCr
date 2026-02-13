@@ -1,18 +1,6 @@
 <img src="Assets/banner.gif">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/heitor-carvalho-rodrigues-75b3621a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/xkHeitor" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-1a1b27?style=for-the-badge&logo=hackerrank&logoColor=9644CD" />
-  </a>
-</p>
-
----
-
 ## 👋 Me
-
 <img src="Assets/hmm.gif" width="25px" />  
 Backend Developer focused on **Node.js, TypeScript and distributed systems**.  
 Currently improving skills in **software architecture, clean code and system design**.
